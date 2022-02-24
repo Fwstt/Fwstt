@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Fwstt
-- 👀 I’m interested in HTML and web designing
-- 💞️ I’m looking to collaborate on Helping friends in mc
-- 📫 How to reach me Fwstt#5651
+
+popis
